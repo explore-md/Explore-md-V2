@@ -7,9 +7,9 @@ async function helpCommand(sock, chatId, message) {
 *╭───(* *𝐄𝐗𝐏𝐋𝐎𝐑𝐄-𝐌𝐃-𝐕2* *)──╮*
 *│* 友 ɴᴀᴍᴇ ʙᴏᴛ : EXPLORE MD V2
 *│* 友 ᴠᴇʀsɪᴏɴ : 2.0 ᴍᴇᴛᴀ
-*│* 友 ᴛᴇʟᴇɢʀᴀᴍ ᴅᴇᴠᴇʟᴏᴘᴇʀ  : t.me/GWETHA
+*│* 友 ᴛᴇʟᴇɢʀᴀᴍ ᴅᴇᴠᴇʟᴏᴘᴇʀ  : t.me/gwetha
 *│* 友 ʀᴜɴᴛɪᴍᴇ : loçked
-*│* 友 ɪɴғᴏʀᴍᴀᴛɪᴏɴ : t.me/darknessfreenetsquad
+*│* 友 ɪɴғᴏʀᴍᴀᴛɪᴏɴ :t.me/darknessfreenetsquad
 *╰───────────────────╯*
 
 *SCROLL FOR CMD:*
